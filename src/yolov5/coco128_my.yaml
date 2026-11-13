@@ -1,0 +1,9 @@
+# YOLOv5 by Ultralytics, GPL-3.0 license
+# Project classes; local dataset is not distributed with this repository.
+# Paths are relative to src/yolov5, the documented working directory.
+path: ../../dataset
+train: images/train
+val: images/val
+test: images/test
+nc: 2
+names: ['car', 'motorcycle']

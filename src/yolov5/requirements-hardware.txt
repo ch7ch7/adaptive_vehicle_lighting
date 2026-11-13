@@ -1,0 +1,2 @@
+# Additional dependency for UART in main.py
+pyserial>=3.0
