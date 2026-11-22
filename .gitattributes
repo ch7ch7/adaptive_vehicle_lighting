@@ -1,9 +1,0 @@
-* text=auto
-*.md text eol=lf
-*.py text eol=lf
-*.yaml text eol=lf
-*.txt text eol=lf
-*.pt binary
-*.onnx binary
-*.engine binary
-*.png binary
